@@ -1,0 +1,126 @@
+#poem.dict.yaml
+#For my favourate poems
+#by David Chang
+
+name: david_poem_chang
+version: "1.0"
+sort: original
+use_preset_vocabulary: false
+
+# 九歌・少司命
+九歌	jiu ge
+少司命	shao si ming
+秋兰兮麋芜	qiu lan xi mi wu
+罗生兮堂下	luo sheng xi tang xia
+绿叶兮素华	lv ye xi su hua
+芳菲菲兮袭予	fang fei fei xi xi yu
+夫人自有兮美子	fu ren zi you xi mei zi
+荪何以兮愁苦	sun he yi xi chou ku
+秋兰兮青青	qiu lan xi qing qing
+绿叶兮紫茎	lv ye xi zi jing
+满堂兮美人	man tang xi mei ren
+忽独与余兮目成	hu du yu yu xi mu cheng
+入不言兮出不辞	ru bu yan xi chu bu ci
+乘回风兮载云旗	cheng hui feng xi zai yun qi
+悲莫悲兮生别离	bei mo bei xi sheng bie li
+乐莫乐兮新相知	le mo le xi xin xiang zhi
+荷衣兮蕙带	he yi xi hui dai
+儵而来兮忽而逝	shu er lai xi hu er shi
+夕宿兮帝郊	xi su xi di jiao
+君谁须兮云之际	jun shui xu xi yun zhi ji
+与女游兮九河	yu ru you xi jiu he
+冲风至兮水扬波	chong feng zhi xi shui yang bo
+与女沐兮咸池	yu ru mu xi xian chi
+晞女发兮阳之阿	xi ru fa xi yang zhi e
+望美人兮未来	wang mei ren xi wei lai
+临风怳兮浩歌	lin feng huang xi hao ge
+孔盖兮翠旍	kong gai xi cui jing
+登九天兮抚彗星	deng jiu tian xi fu hui xing
+竦长剑兮拥幼艾	song chang jian xi yong you ai
+荪独宜兮为民正	sun du yi xi wei min zheng
+
+# 九歌・大司命
+大司命	da si ming
+广开兮天门	guang kai xi tian men
+纷吾乘兮玄云	fen wu cheng xi xuan yun
+令飘风兮先驱	ling piao feng xi xian qu
+使涷雨兮洒尘	shi dong yu xi sa chen
+君迴翔兮㠯下	jun hui xiang xi yi xia
+踰空桑兮从女	yu kong sang xi cong ru
+纷总总兮九州	fen zong zong xi jiu zhou
+何寿夭兮在予	he shou yao xi zai yu
+高飞兮安翔	gao fei xi an xiang
+乘清气兮御阴阳	cheng qing qi xi yu yin yang
+吾与君兮齐速	wu yu jun xi qi su
+导帝之兮九坑	dao di zhi xi jiu gang
+灵衣兮被被	ling yi xi bei bei
+玉佩兮陆离	yu pei xi lu li
+壹阴兮壹阳	yi yin xi yi yang
+众莫知兮余所为	zhong mo zhi xi yu suo wei
+折疏麻兮瑶华	zhe shu ma xi yao hua
+将以遗兮离居	jiang yi wei xi li ju
+老冉冉兮既极	lao ran ran xi ji ji
+不寖近兮愈疏	bu jin jin xi yu shu
+乘龙兮辚辚	cheng long xi lin lin
+高驼兮冲天	gao chi xi chong tian
+结桂枝兮延竚	jie gui zhi xi yan zhu
+羌愈思兮愁人	qiang yu si xi chou ren
+愁人兮奈何	chou ren xi nai he
+愿若今兮无亏	yuan ruo jin xi wu kui
+固人命兮有当	gu ren ming xi you dang
+孰离合兮可为	shu li he xi ke wei
+
+# 葬花吟
+葬花吟	zang hua yin
+花谢花飞飞满天	hua xie hua fei fei man tian
+红消香断有谁怜	hong xiao xiang duan you shui lian
+游丝软细飘春榭	you si ruan xi piao chun xie
+落絮轻拈扑绣窗	luo xu qing nian pu xiu chuang
+闺中女儿惜春暮	gui zhong nv er xi chun mu
+愁绪满怀无释处	chou xu man huai wu shi chu
+手把花锄出绣帘	shou ba hua chu chu xiu lian
+忍踏落花来复去	ren ta luo hua lai fu qu
+柳丝榆荚自芳菲	liu si yu jia zi fang fei
+那管桃飘与李飞	na guan tao piao yu li fei
+桃李明年能再发	tao li ming nian neng zai fa
+明年闺中知有谁	ming nian gui zhong zhi you shui
+三月香巢已垒成	san yue xiang chao yi lei cheng
+梁间燕子太无情	liang jian yan zi tai wu qing
+明年花发虽可啄	ming nian hua fa sui ke zhuo
+却不道人去梁空巢已倾	que bu dao ren qu liang kong chao yi qing
+一年三百六十日	yi nian san bai liu shi ri
+风刀霜剑严相逼	feng dao shuang jian yan xiang bi
+鲜妍明媚能几时	xian yan ming mei neng ji shi
+一朝漂泊难寻觅	yi zhao piao bo nan xun mi
+花开易见落难寻	hua kai yi jian luo nan xun
+阶前愁煞葬花人	jie qian chou sha zang hua ren
+独倚花锄泪暗洒	du yi hua chu lei an sa
+洒上空枝见血痕	sa shang kong zhi jian xue hen
+杜鹃无语正黄昏	du juan wu yu zheng huang hun
+荷锄归去掩重门	he chu gui qu yan chong men
+青灯照壁人初睡	qing deng zhao bi ren chu shui
+冷雨敲窗被未温	leng yu qiao chuang bei wei wen
+怪侬底事倍伤神	guai nong di shi bei shang shen
+半为怜春半恼春	ban wei lian chun ban nao chun
+怜春忽至恼忽去	lian chun hu zhi nao hu qu
+至又无言去不闻	zhi you wu yan qu bu wen
+昨宵庭外悲歌发	zo xiao ting wai bei ge fa
+知是花魂与鸟魂	zhi shi hua hun yu niao hun
+花魂鸟魂总难留	hua hun niao hun zong nan liu
+鸟自无言花自羞	niao zi wu yan hua zi xiu
+愿奴胁下生双翼	yuan nu xie xia sheng shuang yi
+随花飞至天尽头	sui hua fei zhi tian jin tou
+天尽头	tian jin tou
+何处有香丘	he chu you xiang qiu
+未若锦囊收艳骨	wei ruo jin nang shou yan gu
+一抔净土掩风流	yi pou jing tu yan feng liu
+质本洁来还洁去	zhi ben jie lai huan jie qu
+强于污淖陷渠沟	qiang yu wu nao xian qu gou
+尔今死去侬收葬	er jin si qu nong shou zhang
+未卜侬身何日丧	wei bu nong shen he ri sang
+侬今葬花人笑痴	nong jin zang hua ren xiao chi
+他年葬侬知是谁	ta nian zang nong zhi shi shui
+试看春残花渐落	shi kan chun can hua jian luo
+便是红颜老死时	bian shi hong yan lao si shi
+一朝春尽红颜老	yi zhao chun jin hong yan lao
+花落人亡两不知	hua luo ren wang liang bu zhi
