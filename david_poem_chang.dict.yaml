@@ -1,11 +1,15 @@
-#poem.dict.yaml
-#For my favourate poems
-#by David Chang
+# poem.dict.yaml
+# For my favourate poems
+# by David Chang
 
+---
 name: david_poem_chang
 version: "1.0"
 sort: original
-use_preset_vocabulary: false
+use_preset_vocabulary: true
+import_tables:
+        - luna_pinyin
+...
 
 # 九歌・少司命
 九歌	jiu ge
