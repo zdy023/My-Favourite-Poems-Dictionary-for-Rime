@@ -5,7 +5,7 @@
 ---
 name: david_poem_chang
 version: "1.0"
-sort: original
+sort: by_weight
 use_preset_vocabulary: true
 import_tables:
         - luna_pinyin
