@@ -14,6 +14,7 @@ import_tables:
 # 九歌・少司命
 九歌	jiu ge
 少司命	shao si ming
+屈原	qu yuan
 秋兰兮麋芜	qiu lan xi mi wu
 罗生兮堂下	luo sheng xi tang xia
 绿叶兮素华	lv ye xi su hua
@@ -76,6 +77,8 @@ import_tables:
 
 # 葬花吟
 葬花吟	zang hua yin
+红楼梦	hong lou meng
+曹雪芹	cao xue qin
 花谢花飞飞满天	hua xie hua fei fei man tian
 红消香断有谁怜	hong xiao xiang duan you shui lian
 游丝软细飘春榭	you si ruan xi piao chun xie
@@ -128,3 +131,48 @@ import_tables:
 便是红颜老死时	bian shi hong yan lao si shi
 一朝春尽红颜老	yi zhao chun jin hong yan lao
 花落人亡两不知	hua luo ren wang liang bu zhi
+
+# 将进酒
+将进酒	qiang jin jiu
+李白	li bai
+君不见黄河之水天上来	jun bu jian huang he zhi shui tian shang lai
+奔流到海不复回	ben liu dao hai bu fu hui
+君不见高堂明镜悲白发	jun bu jian gao tang ming jing bei bai fa
+朝如青丝暮成雪	zhao ru qing si mu cheng xue
+人生得意须尽欢	ren sheng de yi xu jin huan
+莫使金樽空对月	mo shi jin zun kong dui yue
+天生我材必有用	tian sheng wo cai bi you yong
+千金散尽还复来	qian jin san jin huan fu lai
+烹羊宰牛且为乐	peng yang zai niu qie wei le
+会须一饮三百杯	hui xu yi yin san bai bei
+岑夫子	cen fu zi
+丹邱生	dan qiu sheng
+将进酒	qiang jin jiu
+杯莫停	bei mo ting
+与君歌一曲	yu jun ge yi qu
+请君为我倾耳听	qing jun wei wo qing er ting
+钟鼓馔玉不足贵	zhong gu zhuan yu bu zu gui
+但愿长醉不复醒	dan yuan chang zui bu fu xing
+古来圣贤皆寂寞	gu lai sheng xian jie ji mo
+唯有饮者留其名	wei you yin zhe liu qi ming
+昔时陈王宴平乐	xi shi chen wang yan ping yue
+斗酒十千恣欢谑	dou jiu shi qian zi huan xue
+主人何为言少钱	zhu ren he wei yan shao qian
+径须沽取对君酌	jing xu gu qu dui jun zhuo
+五花马	wu hua ma
+千金裘	qian jin qiu
+呼儿将出换美酒	hu er jiang chu huan mei jiu
+与尔同销万古愁	yu er tong xiao wan gu chou
+
+# 某汉乐府民歌
+汉乐府	han yue fu
+乐府	yue fu
+上邪	shang ye
+我欲与君相知	wo yu yu jun xiang zhi
+长命无绝衰	chang ming wu jue shuai
+山无陵	shan wu leng
+江水为竭	jiang shui wei jie
+冬雷滚滚	dong lei gun gun
+夏雨雪	xia yu xue
+天地合	tian di he
+乃敢与君绝	nai gan yu jun jue
