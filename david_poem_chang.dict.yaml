@@ -4,7 +4,7 @@
 
 ---
 name: david_poem_chang
-version: "1.0"
+version: "1.1"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
