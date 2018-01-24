@@ -4,11 +4,9 @@
 
 ---
 name: david_poem_chang
-version: "1.1"
+version: "1.5"
 sort: by_weight
 use_preset_vocabulary: true
-import_tables:
-        - luna_pinyin
 ...
 
 # 九歌・少司命
@@ -451,3 +449,93 @@ import_tables:
 今安在	jin an zai
 长风破浪会有时	chang feng po lang hui you shi
 直挂云帆济沧海	zhi gua yun fan ji cang hai
+
+# 枫桥夜泊
+枫桥夜泊	feng qiao ye bo
+张继	zhang ji
+月落乌啼霜满天	yue luo wu ti shuang man tian
+江枫渔火对愁眠	jiang feng yu huo dui chou mian
+姑苏城外寒山寺	gu su cheng wai han shan si
+夜半钟声到客船	ye ban zhong sheng dao ke chuan
+
+# 赠妓云英
+赠妓云英	zeng ji yun ying
+罗隐	luo yin
+钟陵醉别十余春	zhong ling zui bie shi yu chun
+重见云英掌上身	chong jian yun ying zhang shang shen
+我未成名卿未嫁	wo wei cheng ming qing wei jia
+可能俱是不如人	ke neng ju shi bu ru ren
+
+# 自遣
+自遣 zi qian
+得即高歌失即休	de ji gao ge shi ji xiu
+多愁多恨亦悠悠	duo chou duo hen yi you you
+今朝有酒今朝醉	jin zhao you jiu jin zhao zui
+明日愁来明日愁	ming ri chou lai ming ri chou
+
+# 玉楼春
+玉楼春	yu lou chun
+欧阳修	ou yang xiu
+别后不知君远近	bie hou bu zhi jun yuan jin
+触目凄凉多少闷	chu mu qi liang duo shao men
+渐行渐远渐无书	jian xing jian yuan jian wu shu
+水阔鱼沈何处问	shui kuo yu chen he chu wen
+夜深风竹敲秋韵	ye shen feng zhu qiao qiu yun
+万叶千声皆是恨	wan ye qian sheng jie shi hen
+故欹单枕梦中寻	gu yi dan zhen meng zhong xun
+梦又不成灯又烬	meng you bu cheng deng you jin
+
+# 浣溪沙
+浣溪沙	huan xi sha
+晏殊	yan shu
+一曲新词酒一杯	yi qu xin ci jiu yi bei
+去年天气旧亭台	qu nian tian qi jiu ting tai
+夕阳西下几时回	xi yang xi xia ji shi hui
+无可奈何花落去	wu ke nai he hua luo qu
+似曾相识燕归来	si ceng xiang shi yan gui lai
+小园香径独徘徊	xiao yuan xiang jing du pai huai
+
+# 临江仙
+临江仙	lin jian xian
+梦后楼台高锁	meng hou lou tai gao suo
+酒醒帘幕低垂	jiu xing lian mu di chui
+去年春恨却来时	qu nian chun hen que lai shi
+落花人独立	luo hua ren du li
+微雨燕双飞	wei yu yan shuang fei
+记得小苹初见	ji de xiao ping chu jian
+两重心字罗衣	liang chong xin zi luo yi
+琵琶弦上说相思	pi pa xian shang shuo xiang si
+当时明月在	dang shi ming yue zai
+曾照彩云归	ceng zhao cai yun gui
+
+# 临江仙
+曲江花	qu jiang hua
+阆山	lang shan
+阆苑	lang yuan
+记得金銮同唱第	ji de jin luan tong chang di
+春风上国繁华	chun feng shang guo fan hua
+如今薄宦老天涯	ru jin bo huan lao tian ya
+十年歧路	shi nian qi lu
+空负曲江花	kong fu qu jiang hua
+闻说阆山通阆苑	wen shuo lang shan tong lang yuan
+楼高不见君家	lou gao bu jian jun jia
+孤城寒日等闲斜	gu cheng han ri deng xian xia
+离愁难尽	li chou nan jin
+红树远连霞	hong shu yuan lian xia
+
+# 风雨
+风雨	feng yu
+诗经	shi jing
+郑风	zheng feng
+风雨凄凄	feng yu qi qi
+鸡鸣喈喈	ji ming jie jie
+既见君子	ji jian jun zi
+云胡不夷	yun hu bu yi
+风雨潇潇	feng yu xiao xiao
+鸡鸣胶胶	ji ming jiao jiao
+既见君子	ji jian jun zi
+云胡不瘳	yun hu bu chou
+风雨如晦	feng yu ru hui
+鸡鸣不已	ji ming bu yi
+既见君子	ji jian jun zi
+云胡不喜	yun hu bu xi
