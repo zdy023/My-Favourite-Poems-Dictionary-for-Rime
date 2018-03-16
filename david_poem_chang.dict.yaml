@@ -723,7 +723,7 @@ use_preset_vocabulary: true
 紧靠着湖山石边	jin kao zhe hu shan shi bian
 和你把领扣松	he ni ba ling kou song
 衣带宽	yi dai kuan
-袖梢儿搵着牙儿苫也	xiu shao er wen zhe ya er shan ye
+袖梢儿揾着牙儿苫也	xiu shao er wen zhe ya er shan ye
 则待你忍耐温存一晌眠	ze dai ni ren nai wen cun yi shang mian
 是那处曾相见	shi na chu ceng xiang jian
 想看俨然	xiang kan yan ran
@@ -1148,3 +1148,84 @@ use_preset_vocabulary: true
 吴酒一杯春竹叶	wu jiu yi bei chun zhu ye
 吴娃双舞醉芙蓉	wu wa shuang wu zui fu rong
 早晚复相逢	zao wan fu xiang feng
+
+# 水龙吟·登建康赏心亭
+水龙吟	shui long yin
+登建康赏心亭	deng jian kang shang xin ting
+辛弃疾	xin qi ji
+建康	jian kang
+赏心亭	shang xin ting
+楚天千里清秋	chu tian qian li qing qiu
+水随天去秋无际	shui sui tian qu qiu wu ji
+遥岑远目	yao cen yuan mu
+献愁供恨	xian chou gong hen
+玉簪螺髻	yu zan luo ji
+落日楼头	luo ri lou tou
+断鸿声里	duan hong sheng li
+江南游子	jiang nan you zi
+把吴钩看了	ba wu gou kan liao
+栏杆拍遍	lan gan pai bian
+无人会	wu ren hui
+登临意	deng lin yi
+休说鲈鱼堪脍	xiu shuo lu yu kan kuai
+尽西风	jin xi feng
+季鹰归未	ji ying gui wei
+求田问舍	qiu tian wen she
+怕应羞见	pa ying xiu jian
+刘郎才气	liu lang cai qi
+可惜流年	ke xi liu nian
+忧愁风雨	you chou feng yu
+树犹如此	shu you ru ci
+倩何人唤取	qing he ren huan qu
+红巾翠袖	hong jin cui xiu
+揾英雄泪	wen ying xiong lei
+
+# 长安晚秋
+长安晚秋	chang an wan qiu
+赵嘏	zhao gu
+云物凄凉拂曙流	yun wu qi liang fu shu liu
+汉家宫阙动高秋	han jia gong que dong gao qiu
+残星几点雁横塞	can xing ji dian yan heng sai
+长笛一声人倚楼	chang di yi sheng ren yi lou
+紫艳半开篱菊静	zi yan ban kai li ju jing
+红衣落尽渚莲愁	hong yi luo jin zhu lian chou
+鲈鱼正美不归去	lu yu zheng mei bu gui qu
+空戴南冠学楚囚	kong dai nan guan xue chu qiu
+
+# 无题
+相见时难别亦难	xiang jian shi nan bie yi nan
+东风无力百花残	dong feng wu li bai hua can
+春蚕到死丝方尽	chun can dao si si fang jin
+蜡炬成灰泪始干	la ju cheng hui lei shi gan
+晓镜但愁云鬓改	xiao jing dan chou yun bin gai
+夜吟应觉月光寒	ye yin ying jue yue guang han
+蓬山此去无多路	peng shan ci qu wu duo lu
+青鸟殷勤为探看	qing niao yin qin wei tan kan
+
+# 夜雨寄北
+君问归期未有期	jun wen gui qi wei you qi
+巴山夜雨涨秋池	ba shan ye yu zhang qiu chi
+何当共剪西窗烛	he dang gong jian xi chuang zhu
+却话巴山夜雨时	que hua ba shan ye yu shi
+
+# 离思
+离思	li si
+元稹	yuan zhen
+曾经沧海难为水	ceng jing cang hai nan wei shui
+除却巫山不是云	chu que wu shan bu shi yun
+取次花丛懒回顾	qu ci hua cong lan hui gu
+半缘修道半缘君	ban yuan xiu dao ban yuan jun
+
+# 卜算子·送鲍浩然之浙东
+卜算子	bu suan zi
+送鲍浩然之浙东	song bao hao ran zhi zhe dong
+王观	wang guan
+鲍浩然	bao hao ran
+水是眼波横	shui shi yan bo heng
+山是眉峰聚	shan shi mei feng ju
+欲问行人去那边	yu wen xing ren qu na bian
+眉眼盈盈处	mei yan ying ying chu
+才始送春归	cai shi song chun gui
+又送君归去	you song jun gui qu
+若到江南赶上春	ruo dao jiang nan gan shang chun
+千万和春住	qian wan he chun zhu
